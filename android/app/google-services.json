@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "120402790980",
+    "project_id": "device-streaming-1a6b41c6",
+    "storage_bucket": "device-streaming-1a6b41c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120402790980:android:d9152e9417d118c4cb0a11",
+        "android_client_info": {
+          "package_name": "com.example.listify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2y1QGmEL9BMTCXJ_PS1XWv74Ke3JFYHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
